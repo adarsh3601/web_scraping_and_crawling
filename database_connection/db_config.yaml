@@ -1,0 +1,12 @@
+mongo:
+  username: "crawler-storage"
+  password: 
+  host: "crawler-storage.mongo.cosmos.azure.com"
+  port: 10255
+  ssl: "true"
+  replicaset: "globaldb"
+  retrywrites: "false"
+  maxidletime: 120000
+  appname: "crawler-storage"
+  db_name: "jobs"  # Replace with your database name
+  collection_name: "demo"  # Replace with your collection name

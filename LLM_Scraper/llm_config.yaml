@@ -1,0 +1,38 @@
+configurations:
+  api_config:
+    openai_api_key: ""
+    replicate_api_key: 
+
+  llm_config:
+     model: "meta/meta-llama-3-8b-instruct"
+     input:
+        top_k: 0
+        top_p: 0.5
+        temperature: 0.4
+        length_penalty: 1
+        max_new_tokens: 300
+        prompt_template: "{prompt}"
+        presence_penalty: 1.15
+
+  custom_prompt:
+    0:
+      base_prompt: "parse this html and put it in json -> (job_id, date_posted, company_name, job_title, job_type, Description summary ,
+  , qualification, experience, minimum_qualification,  location, country, source_link, apply_link) just give me the final json for these fileds , dont give python code
+  "
+      json_prompt: '''{ "job_id": ,
+                     "date_posted": ,
+                     "company_name": ,
+                     "job_title": ,
+                     "job_type": ,
+                     "description_summary": only 30 words ,
+                     "experience",
+                     "minimum_qualification"
+                     "qualification": ,
+                     "location": ,
+                     "country": ,
+                     "source_link": ,
+                     "apply_link":
+      }'''
+      suffix_prompt: "Convert this json format as follows "
+      rule_prompt: "put the json in inside this <start_json> json data <end_json>"
+

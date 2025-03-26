@@ -1,0 +1,833 @@
+2024-06-05 20:24:11,550 INFO:Crawling Company => 23andMe
+2024-06-05 20:24:11,550 INFO:Base URL: https://23andme.com
+2024-06-05 20:24:11,550 INFO:Visiting: https://23andme.com/careers
+2024-06-05 20:24:25,281 INFO:Visiting: https://23andme.com/en-int/careers/jobs/
+2024-06-05 20:24:27,040 INFO:Visiting: https://23andme.com/en-int/careers/jobs/6002295002/
+2024-06-05 20:24:28,269 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6002295002/
+2024-06-05 20:24:28,269 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6830403002/
+2024-06-05 20:24:28,269 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6849126002/
+2024-06-05 20:24:28,269 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6871069002/
+2024-06-05 20:24:28,269 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6885835002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6933919002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936029002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936031002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936037002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936043002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936047002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936053002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936055002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936058002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936066002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6936069002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6948795002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/6986995002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7055599002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7102376002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7266356002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7280524002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7282857002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7292168002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7309311002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7314132002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7314554002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7324234002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7324235002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7333580002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7343314002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7443446002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7452767002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7457856002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7464740002/
+2024-06-05 20:24:28,270 INFO:At Level: 2 -> Url: https://23andme.com/en-int/careers/jobs/7466506002/
+2024-06-05 20:24:28,273 INFO:Crawling Company => 6sense
+2024-06-05 20:24:28,273 INFO:Base URL: https://6sense.com
+2024-06-05 20:24:28,273 INFO:Visiting: https://6sense.com/careers
+2024-06-05 20:24:53,032 INFO:Visiting: https://6sense.com/about-us/careers/join-us/
+2024-06-05 20:25:01,791 INFO:Visiting: https://6sense.com/jobs/
+2024-06-05 20:25:11,176 INFO:Visiting: https://boards.greenhouse.io/6sense/jobs/4612633?gh_jid=4612633#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/4612633?gh_jid=4612633#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/4612633?gh_jid=4612633#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/4613585?gh_jid=4613585#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/4613585?gh_jid=4613585#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5018434?gh_jid=5018434#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5018434?gh_jid=5018434#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5378296?gh_jid=5378296#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5378296?gh_jid=5378296#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5412886?gh_jid=5412886#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5412886?gh_jid=5412886#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5474227?gh_jid=5474227#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5474227?gh_jid=5474227#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5494417?gh_jid=5494417#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5494417?gh_jid=5494417#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5542291?gh_jid=5542291#new_tab
+2024-06-05 20:25:12,839 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5542291?gh_jid=5542291#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5542296?gh_jid=5542296#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5542296?gh_jid=5542296#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5548690?gh_jid=5548690#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5548690?gh_jid=5548690#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5567108?gh_jid=5567108#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5567108?gh_jid=5567108#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5590412?gh_jid=5590412#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5590412?gh_jid=5590412#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5636812?gh_jid=5636812#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5636812?gh_jid=5636812#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5750572?gh_jid=5750572#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5750572?gh_jid=5750572#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5765341?gh_jid=5765341#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5765341?gh_jid=5765341#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5835616?gh_jid=5835616#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5835616?gh_jid=5835616#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5839301?gh_jid=5839301#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5839301?gh_jid=5839301#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5869803?gh_jid=5869803#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5869803?gh_jid=5869803#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5871947?gh_jid=5871947#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5871947?gh_jid=5871947#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5881594?gh_jid=5881594#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5881594?gh_jid=5881594#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5887807?gh_jid=5887807#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5887807?gh_jid=5887807#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5896394?gh_jid=5896394#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5896394?gh_jid=5896394#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5901112?gh_jid=5901112#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5901112?gh_jid=5901112#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5911268?gh_jid=5911268#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5911268?gh_jid=5911268#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5913132?gh_jid=5913132#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5913132?gh_jid=5913132#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5920484?gh_jid=5920484#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5920484?gh_jid=5920484#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5924859?gh_jid=5924859#new_tab
+2024-06-05 20:25:12,840 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5924859?gh_jid=5924859#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5938596?gh_jid=5938596#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5938596?gh_jid=5938596#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5948316?gh_jid=5948316#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5948316?gh_jid=5948316#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5961698?gh_jid=5961698#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5961698?gh_jid=5961698#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5962311?gh_jid=5962311#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5962311?gh_jid=5962311#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5962551?gh_jid=5962551#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5962551?gh_jid=5962551#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5962614?gh_jid=5962614#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5962614?gh_jid=5962614#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5964480?gh_jid=5964480#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5964480?gh_jid=5964480#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5970039?gh_jid=5970039#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5970039?gh_jid=5970039#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5986598?gh_jid=5986598#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5986598?gh_jid=5986598#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5990704?gh_jid=5990704#new_tab
+2024-06-05 20:25:12,841 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/6sense/jobs/5990704?gh_jid=5990704#new_tab
+2024-06-05 20:25:12,842 INFO:Crawling Company => Acquia
+2024-06-05 20:25:12,843 INFO:Base URL: https://acquia.com
+2024-06-05 20:25:12,843 INFO:Visiting: https://acquia.com/careers
+2024-06-05 20:25:18,261 INFO:Visiting: https://www.acquia.com/careers/open-positions
+2024-06-05 20:25:18,675 INFO:Visiting: https://boards.greenhouse.io/acquia/jobs/5892833
+2024-06-05 20:25:20,204 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/acquia/jobs/5892833
+2024-06-05 20:25:20,204 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/acquia/jobs/5909716
+2024-06-05 20:25:20,204 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/acquia/jobs/5951977
+2024-06-05 20:25:20,204 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/acquia/jobs/5960205
+2024-06-05 20:25:20,204 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/acquia/jobs/5970593
+2024-06-05 20:25:20,204 INFO:At Level: 2 -> Url: https://boards.greenhouse.io/acquia/jobs/5979236
+2024-06-05 20:25:20,205 INFO:Crawling Company => Act-On
+2024-06-05 20:25:20,205 INFO:Base URL: https://act-on.com
+2024-06-05 20:25:20,205 INFO:Visiting: https://act-on.com/careers
+2024-06-05 20:25:42,307 INFO:Visiting: https://jobs.jobvite.com/act-on-software/jobs/
+2024-06-05 20:25:42,907 INFO:Visiting: https://jobs.jobvite.com/act-on-software/apply
+2024-06-05 20:25:44,019 INFO:Visiting: https://jobs.jobvite.com/act-on-software/job/oCrssfwH
+2024-06-05 20:25:44,546 INFO:At Level: 2 -> Url: https://jobs.jobvite.com/act-on-software/job/oCrssfwH
+2024-06-05 20:25:44,546 INFO:At Level: 2 -> Url: https://jobs.jobvite.com/act-on-software/job/obGItfwM
+2024-06-05 20:25:44,546 INFO:At Level: 2 -> Url: https://jobs.jobvite.com/act-on-software/job/orKwtfwU
+2024-06-05 20:25:44,549 INFO:Crawling Company => ActiveCampaign
+2024-06-05 20:25:44,549 INFO:Base URL: https://activecampaign.com
+2024-06-05 20:25:44,549 INFO:Visiting: https://activecampaign.com/careers
+2024-06-05 20:25:55,902 INFO:Visiting: https://jobs.lever.co/activecampaign/5c3bb654-ad3a-4231-88c7-226866450802
+2024-06-05 20:25:59,035 INFO:At Level: 1 -> Url: https://jobs.lever.co/activecampaign/5c3bb654-ad3a-4231-88c7-226866450802
+2024-06-05 20:25:59,035 INFO:Crawling Company => Adobe
+2024-06-05 20:25:59,035 INFO:Base URL: https://adobe.wd5.myworkdayjobs.com
+2024-06-05 20:25:59,035 INFO:Visiting: https://adobe.wd5.myworkdayjobs.com/en-US/AdobeCareers
+2024-06-05 20:26:00,836 INFO:Crawling Company => Affirm
+2024-06-05 20:26:00,836 INFO:Base URL: https://affirm.com
+2024-06-05 20:26:00,836 INFO:Visiting: https://affirm.com/careers
+2024-06-05 20:26:07,693 INFO:Visiting: https://affirm.com/careers#openings
+2024-06-05 20:26:08,447 INFO:Crawling Company => Airtable
+2024-06-05 20:26:08,447 INFO:Base URL: https://airtable.com
+2024-06-05 20:26:08,447 INFO:Visiting: https://airtable.com/careers
+2024-06-05 20:26:09,942 INFO:Crawling Company => Alation
+2024-06-05 20:26:09,942 INFO:Base URL: https://alation.com
+2024-06-05 20:26:09,942 INFO:Visiting: https://alation.com/careers
+2024-06-05 20:26:14,443 INFO:Crawling Company => Algolia
+2024-06-05 20:26:14,443 INFO:Base URL: https://algolia.com
+2024-06-05 20:26:14,443 INFO:Visiting: https://algolia.com/careers
+2024-06-05 20:26:17,524 INFO:Crawling Company => Alloy
+2024-06-05 20:26:17,524 INFO:Base URL: https://alloy.co
+2024-06-05 20:26:17,524 INFO:Visiting: https://alloy.co/careers
+2024-06-05 20:26:20,526 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:26:20,530 INFO:Crawling Company => Alphabet (Google)
+2024-06-05 20:26:20,530 INFO:Base URL: https://careers.google.com
+2024-06-05 20:26:20,530 INFO:Visiting: https://careers.google.com
+2024-06-05 20:28:12,822 INFO:Visiting: https://careers.google.com/jobs
+2024-06-05 20:28:16,404 INFO:At Level: 1 -> Url: https://careers.google.com/jobs
+2024-06-05 20:28:16,405 INFO:Crawling Company => Alteryx
+2024-06-05 20:28:16,405 INFO:Base URL: https://alteryx.com
+2024-06-05 20:28:16,405 INFO:Visiting: https://alteryx.com/careers
+2024-06-05 20:28:37,087 INFO:Crawling Company => Amazon (AWS)
+2024-06-05 20:28:37,087 INFO:Base URL: https://amazon.jobs
+2024-06-05 20:28:37,087 INFO:Visiting: https://amazon.jobs
+2024-06-05 20:28:43,334 INFO:Visiting: https://amazon.jobs/en/job_categories
+2024-06-05 20:28:45,103 INFO:Crawling Company => Amplitude
+2024-06-05 20:28:45,103 INFO:Base URL: https://amplitude.com
+2024-06-05 20:28:45,103 INFO:Visiting: https://amplitude.com/careers
+2024-06-05 20:28:47,733 INFO:Crawling Company => Anaplan
+2024-06-05 20:28:47,734 INFO:Base URL: https://anaplan.com
+2024-06-05 20:28:47,734 INFO:Visiting: https://anaplan.com/careers
+2024-06-05 20:29:03,002 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:29:03,003 INFO:Crawling Company => Andela
+2024-06-05 20:29:03,003 INFO:Base URL: https://andela.com
+2024-06-05 20:29:03,003 INFO:Visiting: https://andela.com/careers
+2024-06-05 20:29:06,883 INFO:Crawling Company => Anduril Industries
+2024-06-05 20:29:06,883 INFO:Base URL: https://anduril.com
+2024-06-05 20:29:06,883 INFO:Visiting: https://anduril.com/careers
+2024-06-05 20:29:21,990 INFO:Crawling Company => AppDynamics
+2024-06-05 20:29:21,992 INFO:Base URL: https://appdynamics.com
+2024-06-05 20:29:21,992 INFO:Visiting: https://appdynamics.com/company/careers
+2024-06-05 20:29:35,021 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/appd
+2024-06-05 20:29:39,064 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/appd?listFilterMode=1&21181=%5B%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A201%2C%22name%22%3Anull%7D%7D%2C%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A244385%2C%22name%22%3Anull%7D%7D%2C%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A9013351%2C%22name%22%3Anull%7D%7D%2C%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A199%2C%22name%22%3Anull%7D%7D%5D&21181_format=6023
+2024-06-05 20:29:42,550 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/appd_jobs
+2024-06-05 20:29:45,619 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/appd_jobs?3_12_3=%5B%22187%22%2C%2241330107%22%5D
+2024-06-05 20:29:48,690 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/appd_jobs?3_12_3=%5B%22193%22%5D
+2024-06-05 20:29:51,253 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/appd_jobs?3_12_3=%5B%22199%22%5D
+2024-06-05 20:29:53,725 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/appd_jobs?3_12_3=%5B%229013351%22%2C%22199%22%5D
+2024-06-05 20:29:57,425 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/appd_jobs?3_19_3=%5B%22165%22%2C%22166%22%2C%2233821095%22%5D
+2024-06-05 20:30:00,051 INFO:Visiting: https://jobs.cisco.com/agency
+2024-06-05 20:30:02,616 INFO:Visiting: https://jobs.cisco.com/jobs
+2024-06-05 20:30:04,788 INFO:Visiting: https://jobs.cisco.com/jobs/Home
+2024-06-05 20:30:06,900 INFO:Visiting: https://jobs.cisco.com/jobs/JobsHelp
+2024-06-05 20:30:09,209 INFO:Visiting: https://jobs.cisco.com/jobs/Login
+2024-06-05 20:30:11,039 INFO:Visiting: https://jobs.cisco.com/jobs/OpenEvents
+2024-06-05 20:30:13,971 INFO:Visiting: https://jobs.cisco.com/jobs/ProjectDetail/AppD-Senior-DevOps-Engineer-DevOps-Software-Development/1417261
+2024-06-05 20:30:16,216 INFO:At Level: 2 -> Url: https://jobs.cisco.com/jobs/ProjectDetail/AppD-Senior-DevOps-Engineer-DevOps-Software-Development/1417261
+2024-06-05 20:30:16,216 INFO:At Level: 2 -> Url: https://jobs.cisco.com/jobs/ProjectDetail/AppD-Senior-DevOps-Engineer-DevOps-Software-Development/1417261
+2024-06-05 20:30:16,216 INFO:At Level: 2 -> Url: https://jobs.cisco.com/jobs/ProjectDetail/AppD-Senior-DevOps-Engineer-DevOps-Software-Development/1417261
+2024-06-05 20:30:16,220 INFO:Crawling Company => Appian
+2024-06-05 20:30:16,221 INFO:Base URL: https://appian.com
+2024-06-05 20:30:16,221 INFO:Visiting: https://appian.com/careers
+2024-06-05 20:30:37,945 INFO:Visiting: https://appian.com/jobs
+2024-06-05 20:30:38,407 INFO:At Level: 1 -> Url: https://appian.com/jobs
+2024-06-05 20:30:38,408 INFO:Crawling Company => AppLovin
+2024-06-05 20:30:38,408 INFO:Base URL: https://applovin.com
+2024-06-05 20:30:38,408 INFO:Visiting: https://applovin.com/careers
+2024-06-05 20:30:48,359 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:30:48,360 INFO:Crawling Company => Arena Solutions
+2024-06-05 20:30:48,360 INFO:Base URL: https://arenasolutions.com
+2024-06-05 20:30:48,361 INFO:Visiting: https://arenasolutions.com/careers
+2024-06-05 20:31:23,506 INFO:Visiting: https://arenasolutions.com/jobs/
+2024-06-05 20:31:24,489 INFO:Visiting: https://www.arenasolutions.com/jobs/
+2024-06-05 20:31:24,959 INFO:Crawling Company => Asana
+2024-06-05 20:31:24,959 INFO:Base URL: https://asana.com
+2024-06-05 20:31:24,959 INFO:Visiting: https://asana.com/jobs
+2024-06-05 20:31:31,729 INFO:Visiting: https://asana.com/jobs/all
+2024-06-05 20:31:32,497 INFO:Visiting: https://asana.com/jobs/business
+2024-06-05 20:31:33,503 INFO:Visiting: https://asana.com/jobs/chicago
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/chicago
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/dublin
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/engineering
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/london
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/munich
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/new-york
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/paris
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/product
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/reykjavik
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/san-francisco
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/singapore
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/sydney
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/tokyo
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/university-recruiting
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/vancouver
+2024-06-05 20:31:34,148 INFO:At Level: 1 -> Url: https://asana.com/jobs/warsaw
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/business
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/chicago
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/chicago
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/dublin
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/dublin
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/engineering
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/engineering
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/internal
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/internal
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/london
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/london
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/munich
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/munich
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/new-york
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/new-york
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/paris
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/paris
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/product
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/product
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/reykjavik
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/reykjavik
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/san-francisco
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/san-francisco
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/singapore
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/singapore
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/sydney
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/sydney
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/tokyo
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/tokyo
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/university-recruiting
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/university-recruiting
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/vancouver
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/vancouver
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/warsaw
+2024-06-05 20:31:34,149 INFO:At Level: 2 -> Url: https://asana.com/jobs/warsaw
+2024-06-05 20:31:34,150 INFO:Crawling Company => Assembled
+2024-06-05 20:31:34,150 INFO:Base URL: https://assembled.com
+2024-06-05 20:31:34,150 INFO:Visiting: https://assembled.com/careers
+2024-06-05 20:31:36,259 INFO:Crawling Company => Asurion
+2024-06-05 20:31:36,259 INFO:Base URL: https://careers.asurion.com
+2024-06-05 20:31:36,260 INFO:Visiting: https://careers.asurion.com
+2024-06-05 20:31:39,722 INFO:Crawling Company => Asurion
+2024-06-05 20:31:39,722 INFO:Base URL: https://asurion.com
+2024-06-05 20:31:39,722 INFO:Visiting: https://asurion.com/careers
+2024-06-05 20:31:47,906 INFO:Crawling Company => Atlassian
+2024-06-05 20:31:47,907 INFO:Base URL: https://atlassian.com
+2024-06-05 20:31:47,907 INFO:Visiting: https://atlassian.com/company/careers
+2024-06-05 20:31:49,834 INFO:Crawling Company => Attentive
+2024-06-05 20:31:49,834 INFO:Base URL: https://attentivemobile.com
+2024-06-05 20:31:49,834 INFO:Visiting: https://attentivemobile.com/careers
+2024-06-05 20:31:52,194 INFO:Crawling Company => Auth0
+2024-06-05 20:31:52,194 INFO:Base URL: https://auth0.com
+2024-06-05 20:31:52,194 INFO:Visiting: https://auth0.com/careers
+2024-06-05 20:39:47,491 INFO:Crawling Company => Automation Anywhere
+2024-06-05 20:39:47,494 INFO:Base URL: https://automationanywhere.com
+2024-06-05 20:39:47,494 INFO:Visiting: https://automationanywhere.com/company/careers
+2024-06-05 20:39:54,365 INFO:Crawling Company => Automattic
+2024-06-05 20:39:54,365 INFO:Base URL: https://automattic.com
+2024-06-05 20:39:54,366 INFO:Visiting: https://automattic.com/work-with-us
+2024-06-05 20:39:59,951 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:39:59,951 WARNING:Exception at company: Automattic
+2024-06-05 20:39:59,954 INFO:Crawling Company => Avalara
+2024-06-05 20:39:59,954 INFO:Base URL: https://avalara.com
+2024-06-05 20:39:59,954 INFO:Visiting: https://avalara.com/us/en/company/careers
+2024-06-05 20:40:06,453 INFO:Crawling Company => Avant
+2024-06-05 20:40:06,454 INFO:Base URL: https://avant.com
+2024-06-05 20:40:06,454 INFO:Visiting: https://avant.com/careers
+2024-06-05 20:40:11,135 INFO:Visiting: https://avant.com/apply
+2024-06-05 20:40:16,079 INFO:Crawling Company => Avaya
+2024-06-05 20:40:16,080 INFO:Base URL: https://jobs.avaya.com
+2024-06-05 20:40:16,080 INFO:Visiting: https://jobs.avaya.com
+2024-06-05 20:40:16,339 WARNING:Exception "HTTPSConnectionPool(host='jobs.avaya.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x12630f460>: Failed to resolve 'jobs.avaya.com' ([Errno 8] nodename nor servname provided, or not known)"))" occured
+2024-06-05 20:40:16,339 INFO:Crawling Company => AxiomSL
+2024-06-05 20:40:16,339 INFO:Base URL: https://axiomsl.com
+2024-06-05 20:40:16,339 INFO:Visiting: https://axiomsl.com/careers
+2024-06-05 20:40:24,249 INFO:Crawling Company => Axonius
+2024-06-05 20:40:24,250 INFO:Base URL: https://axonius.com
+2024-06-05 20:40:24,250 INFO:Visiting: https://axonius.com/careers
+2024-06-05 20:40:26,158 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:40:26,161 INFO:Crawling Company => Benchling
+2024-06-05 20:40:26,161 INFO:Base URL: https://benchling.com
+2024-06-05 20:40:26,161 INFO:Visiting: https://benchling.com/careers
+2024-06-05 20:40:42,172 INFO:Crawling Company => BetterCloud
+2024-06-05 20:40:42,173 INFO:Base URL: https://bettercloud.com
+2024-06-05 20:40:42,173 INFO:Visiting: https://bettercloud.com/careers
+2024-06-05 20:41:12,180 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:41:12,182 WARNING:Exception at company: BetterCloud
+2024-06-05 20:41:12,182 INFO:Crawling Company => Betterment
+2024-06-05 20:41:12,182 INFO:Base URL: https://betterment.com
+2024-06-05 20:41:12,183 INFO:Visiting: https://betterment.com/careers
+2024-06-05 20:41:21,108 INFO:Crawling Company => BigCommerce
+2024-06-05 20:41:21,109 INFO:Base URL: https://bigcommerce.com
+2024-06-05 20:41:21,109 INFO:Visiting: https://bigcommerce.com/careers
+2024-06-05 20:41:21,535 INFO:Crawling Company => BigID
+2024-06-05 20:41:21,535 INFO:Base URL: https://bigid.com
+2024-06-05 20:41:21,536 INFO:Visiting: https://bigid.com/careers
+2024-06-05 20:41:28,665 INFO:Crawling Company => Bill.com
+2024-06-05 20:41:28,666 INFO:Base URL: https://bill.com
+2024-06-05 20:41:28,666 INFO:Visiting: https://bill.com/careers
+2024-06-05 20:41:37,866 INFO:Crawling Company => Billtrust
+2024-06-05 20:41:37,866 INFO:Base URL: https://billtrust.com
+2024-06-05 20:41:37,866 INFO:Visiting: https://billtrust.com/careers
+2024-06-05 20:42:13,013 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:42:13,021 INFO:Crawling Company => BioCatch
+2024-06-05 20:42:13,021 INFO:Base URL: https://biocatch.com
+2024-06-05 20:42:13,021 INFO:Visiting: https://biocatch.com/careers
+2024-06-05 20:44:43,182 WARNING:Exception "HTTPSConnectionPool(host='biocatch.com', port=443): Max retries exceeded with url: /careers (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x125cbb9d0>: Failed to establish a new connection: [Errno 60] Operation timed out'))" occured
+2024-06-05 20:44:43,185 INFO:Crawling Company => Bitly
+2024-06-05 20:44:43,185 INFO:Base URL: https://bitly.com
+2024-06-05 20:44:43,185 INFO:Visiting: https://bitly.com/pages/careers
+2024-06-05 20:44:44,066 INFO:Crawling Company => BitSight
+2024-06-05 20:44:44,066 INFO:Base URL: https://bitsight.com
+2024-06-05 20:44:44,066 INFO:Visiting: https://bitsight.com/careers
+2024-06-05 20:44:49,073 INFO:Crawling Company => Blackbaud
+2024-06-05 20:44:49,074 INFO:Base URL: https://blackbaud.com
+2024-06-05 20:44:49,074 INFO:Visiting: https://blackbaud.com/careers
+2024-06-05 20:44:57,594 INFO:Crawling Company => BlackLine
+2024-06-05 20:44:57,594 INFO:Base URL: https://blackline.com
+2024-06-05 20:44:57,594 INFO:Visiting: https://blackline.com/careers
+2024-06-05 20:45:40,768 INFO:Visiting: https://candidatecareersite-blackline.icims.com/jobs/login?loginOnly=1&redirect=&hashed=-625948243
+2024-06-05 20:45:43,744 INFO:Visiting: https://internal-blackline.icims.com/jobs/login?loginOnly=1&redirect=&hashed=-625948243
+2024-06-05 20:45:45,360 INFO:Visiting: https://candidatecareersite-blackline.icims.com/jobs
+2024-06-05 20:45:46,823 INFO:Visiting: https://internal-blackline.icims.com/jobs
+2024-06-05 20:45:48,282 INFO:Crawling Company => Blend Labs
+2024-06-05 20:45:48,282 INFO:Base URL: https://blend.com
+2024-06-05 20:45:48,282 INFO:Visiting: https://blend.com/careers
+2024-06-05 20:45:55,014 INFO:Visiting: https://blend.com/company/careers/job-openings/
+2024-06-05 20:45:55,094 INFO:Crawling Company => BlockFi
+2024-06-05 20:45:55,094 INFO:Base URL: https://blockfi.com
+2024-06-05 20:45:55,094 INFO:Visiting: https://blockfi.com/careers
+2024-06-05 20:45:57,071 INFO:Crawling Company => BloomReach
+2024-06-05 20:45:57,072 INFO:Base URL: https://bloomreach.com
+2024-06-05 20:45:57,072 INFO:Visiting: https://bloomreach.com/en/careers
+2024-06-05 20:46:00,208 INFO:Crawling Company => Blue Prism
+2024-06-05 20:46:00,209 INFO:Base URL: https://blueprism.com
+2024-06-05 20:46:00,209 INFO:Visiting: https://blueprism.com/who-we-are/careers
+2024-06-05 20:46:11,198 INFO:Crawling Company => Bluecore
+2024-06-05 20:46:11,199 INFO:Base URL: https://bluecore.com
+2024-06-05 20:46:11,199 INFO:Visiting: https://bluecore.com/careers
+2024-06-05 20:47:31,883 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:47:31,892 INFO:Crawling Company => Bolt
+2024-06-05 20:47:31,892 INFO:Base URL: https://bolt.com
+2024-06-05 20:47:31,893 INFO:Visiting: https://bolt.com/careers
+2024-06-05 20:47:35,915 INFO:Crawling Company => Box
+2024-06-05 20:47:35,916 INFO:Base URL: https://box.com
+2024-06-05 20:47:35,917 INFO:Visiting: https://box.com/careers
+2024-06-05 20:47:38,083 INFO:Crawling Company => Boxed
+2024-06-05 20:47:38,084 INFO:Base URL: https://boxed.com
+2024-06-05 20:47:38,084 INFO:Visiting: https://boxed.com/careers
+2024-06-05 20:47:38,313 INFO:Crawling Company => Braze
+2024-06-05 20:47:38,313 INFO:Base URL: https://braze.com
+2024-06-05 20:47:38,313 INFO:Visiting: https://braze.com/company/careers
+2024-06-05 20:47:39,435 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:47:39,435 WARNING:Exception at company: Braze
+2024-06-05 20:47:39,441 INFO:Crawling Company => Braze
+2024-06-05 20:47:39,441 INFO:Base URL: https://braze.com
+2024-06-05 20:47:39,442 INFO:Visiting: https://braze.com/careers
+2024-06-05 20:47:40,292 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:47:40,293 WARNING:Exception at company: Braze
+2024-06-05 20:47:40,296 INFO:Crawling Company => Bright Machines
+2024-06-05 20:47:40,296 INFO:Base URL: https://brightmachines.com
+2024-06-05 20:47:40,296 INFO:Visiting: https://brightmachines.com/careers
+2024-06-05 20:47:45,320 INFO:Visiting: https://jobs.lever.co/brightmachines
+2024-06-05 20:47:47,769 INFO:Visiting: https://jobs.lever.co/brightmachines/4663c21e-cbbc-432e-a7e3-e95ca7fa04ea
+2024-06-05 20:47:50,023 INFO:Visiting: https://jobs.lever.co/brightmachines/4e732626-b92b-49cc-a642-e8c71a28e871
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/4e732626-b92b-49cc-a642-e8c71a28e871
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/68189d61-b109-4a86-9205-7ee33ecf4b20
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/6ff93a3a-1857-46ec-a629-04b321f59b0d
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/9325ea8f-07fd-468c-a9a0-ffc62f0c5ee0
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/a4bba111-f3e6-4624-bbe3-d622e36abb8b
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/c2b77dc4-0265-4d88-a673-76e8f7835a82
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/cafc37c2-2a39-4bb1-b2f4-821fd2187b76
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/cc81c48f-4848-424b-8dd0-8b1fa7cf34d6
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/d684d804-0c21-4fb3-8384-06461ebbb706
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/f31fbbb6-0809-4c12-8bb7-1086ab16f04b
+2024-06-05 20:47:53,089 INFO:At Level: 2 -> Url: https://jobs.lever.co/brightmachines/fdd2d66c-6887-4ef6-a929-0b8b53d24c9e
+2024-06-05 20:47:53,089 INFO:Crawling Company => Brightcove
+2024-06-05 20:47:53,089 INFO:Base URL: https://brightcove.com
+2024-06-05 20:47:53,089 INFO:Visiting: https://brightcove.com/en/company/careers
+2024-06-05 20:47:58,197 INFO:Visiting: https://www.brightcove.com/en/company/careers/open-positions/
+2024-06-05 20:47:59,431 INFO:Crawling Company => Bugcrowd
+2024-06-05 20:47:59,432 INFO:Base URL: https://bugcrowd.com
+2024-06-05 20:47:59,432 INFO:Visiting: https://bugcrowd.com/careers
+2024-06-05 20:48:50,833 INFO:Crawling Company => Built In
+2024-06-05 20:48:50,835 INFO:Base URL: https://builtin.com
+2024-06-05 20:48:50,835 INFO:Visiting: https://builtin.com/careers
+2024-06-05 20:48:53,805 INFO:Visiting: https://builtin.com/company/built-in/jobs
+2024-06-05 20:48:54,528 INFO:Visiting: https://builtin.com/home/jobs/saved
+2024-06-05 20:48:54,981 INFO:Visiting: https://builtin.com/job/chief-staff-product-tech/2718698
+2024-06-05 20:48:55,989 INFO:At Level: 2 -> Url: https://builtin.com/job/chief-staff-product-tech/2718698
+2024-06-05 20:48:55,991 INFO:Crawling Company => Butterfly Network
+2024-06-05 20:48:55,991 INFO:Base URL: https://butterflynetwork.com
+2024-06-05 20:48:55,992 INFO:Visiting: https://butterflynetwork.com/careers
+2024-06-05 20:48:57,876 INFO:Crawling Company => C3.ai
+2024-06-05 20:48:57,876 INFO:Base URL: https://c3.ai
+2024-06-05 20:48:57,876 INFO:Visiting: https://c3.ai/careers
+2024-06-05 20:49:11,028 INFO:Visiting: https://c3.ai/job-description
+2024-06-05 20:49:11,138 INFO:Visiting: https://c3.ai/job-description/?gh_jid=4056280002
+2024-06-05 20:49:12,173 INFO:Visiting: https://c3.ai/job-description/?gh_jid=4056383002
+2024-06-05 20:49:13,306 INFO:Visiting: https://c3.ai/job-description/?gh_jid=4056385002
+2024-06-05 20:49:14,421 INFO:Visiting: https://c3.ai/job-description/?gh_jid=4059138002
+2024-06-05 20:49:15,497 INFO:Visiting: https://c3.ai/job-description/?gh_jid=4105888002
+2024-06-05 20:49:16,680 INFO:Visiting: https://c3.ai/job-description/?gh_jid=4554488002
+2024-06-05 20:49:17,628 INFO:Visiting: https://c3.ai/job-description/?gh_jid=5163605002
+2024-06-05 20:49:18,660 INFO:Visiting: https://c3.ai/job-description/?gh_jid=5355548002
+2024-06-05 20:49:19,604 INFO:Visiting: https://c3.ai/job-description/?gh_jid=5438703002
+2024-06-05 20:49:20,606 INFO:Visiting: https://c3.ai/job-description/?gh_jid=5720700002
+2024-06-05 20:49:21,701 INFO:Visiting: https://c3.ai/job-description/?gh_jid=5769316002
+2024-06-05 20:49:22,111 INFO:Visiting: https://c3.ai/job-description/?gh_jid=5800737002
+2024-06-05 20:49:23,237 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6037691002
+2024-06-05 20:49:24,279 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6107808002
+2024-06-05 20:49:25,326 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6225305002
+2024-06-05 20:49:26,415 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6412168002
+2024-06-05 20:49:27,538 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6491523002
+2024-06-05 20:49:29,174 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6703070002
+2024-06-05 20:49:30,051 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6778354002
+2024-06-05 20:49:31,071 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6778469002
+2024-06-05 20:49:32,148 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6778472002
+2024-06-05 20:49:32,563 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6812003002
+2024-06-05 20:49:33,585 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6819533002
+2024-06-05 20:49:34,708 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6850826002
+2024-06-05 20:49:35,731 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6860327002
+2024-06-05 20:49:36,143 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6889513002
+2024-06-05 20:49:37,163 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6889518002
+2024-06-05 20:49:38,290 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6889529002
+2024-06-05 20:49:39,524 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6911522002
+2024-06-05 20:49:40,751 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6939862002
+2024-06-05 20:49:41,809 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6943576002
+2024-06-05 20:49:43,107 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6943634002
+2024-06-05 20:49:44,235 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6946768002
+2024-06-05 20:49:45,662 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6965247002
+2024-06-05 20:49:46,079 INFO:Visiting: https://c3.ai/job-description/?gh_jid=6993574002
+2024-06-05 20:49:47,087 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7015317002
+2024-06-05 20:49:48,130 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7069717002
+2024-06-05 20:49:49,297 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7079888002
+2024-06-05 20:49:50,280 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7087427002
+2024-06-05 20:49:51,401 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7087440002
+2024-06-05 20:49:52,478 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7090620002
+2024-06-05 20:49:53,555 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7096637002
+2024-06-05 20:49:54,678 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7111887002
+2024-06-05 20:49:55,619 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7193549002
+2024-06-05 20:49:56,016 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7251772002
+2024-06-05 20:49:57,173 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7251777002
+2024-06-05 20:49:58,505 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7251841002
+2024-06-05 20:49:58,882 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7253479002
+2024-06-05 20:49:59,975 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7267831002
+2024-06-05 20:50:00,344 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7272436002
+2024-06-05 20:50:00,701 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7272572002
+2024-06-05 20:50:01,082 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7280374002
+2024-06-05 20:50:01,441 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7282637002
+2024-06-05 20:50:02,564 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7284588002
+2024-06-05 20:50:03,500 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7285893002
+2024-06-05 20:50:04,619 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7307827002
+2024-06-05 20:50:05,730 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7316299002
+2024-06-05 20:50:06,869 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7318079002
+2024-06-05 20:50:07,892 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7318091002
+2024-06-05 20:50:08,913 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7318095002
+2024-06-05 20:50:10,095 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7320384002
+2024-06-05 20:50:11,126 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7322229002
+2024-06-05 20:50:12,502 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7326508002
+2024-06-05 20:50:13,830 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7328851002
+2024-06-05 20:50:14,956 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7332609002
+2024-06-05 20:50:16,083 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7437497002
+2024-06-05 20:50:17,314 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7443846002
+2024-06-05 20:50:18,333 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7444098002
+2024-06-05 20:50:19,417 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7446120002
+2024-06-05 20:50:20,543 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7450670002
+2024-06-05 20:50:20,995 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7452556002
+2024-06-05 20:50:22,110 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7455550002
+2024-06-05 20:50:23,252 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7455584002
+2024-06-05 20:50:24,282 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7455593002
+2024-06-05 20:50:25,643 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7458117002
+2024-06-05 20:50:26,734 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7461139002
+2024-06-05 20:50:27,962 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7461370002
+2024-06-05 20:50:28,966 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7461793002
+2024-06-05 20:50:29,932 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7463393002
+2024-06-05 20:50:30,968 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7463902002
+2024-06-05 20:50:31,289 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7464044002
+2024-06-05 20:50:32,391 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7464295002
+2024-06-05 20:50:33,389 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7468040002
+2024-06-05 20:50:34,350 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7468049002
+2024-06-05 20:50:35,436 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7468063002
+2024-06-05 20:50:36,663 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7468778002
+2024-06-05 20:50:38,001 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7470818002
+2024-06-05 20:50:39,124 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7472844002
+2024-06-05 20:50:40,295 INFO:Visiting: https://c3.ai/job-description/?gh_jid=7476903002
+2024-06-05 20:50:41,238 INFO:Crawling Company => Calendly
+2024-06-05 20:50:41,238 INFO:Base URL: https://calendly.com
+2024-06-05 20:50:41,238 INFO:Visiting: https://calendly.com/careers
+2024-06-05 20:50:42,130 INFO:Visiting: https://calendly.com/jobs
+2024-06-05 20:50:42,469 INFO:Crawling Company => Capsule
+2024-06-05 20:50:42,469 INFO:Base URL: https://capsulecares.com
+2024-06-05 20:50:42,469 INFO:Visiting: https://capsulecares.com/careers
+2024-06-05 20:50:44,929 INFO:Crawling Company => Carbon
+2024-06-05 20:50:44,930 INFO:Base URL: https://carbon3d.com
+2024-06-05 20:50:44,930 INFO:Visiting: https://carbon3d.com/careers
+2024-06-05 20:51:09,794 INFO:Visiting: https://carbon3d.com/jobs
+2024-06-05 20:51:32,541 INFO:Crawling Company => CarGurus
+2024-06-05 20:51:32,543 INFO:Base URL: https://cargurus.com
+2024-06-05 20:51:32,543 INFO:Visiting: https://cargurus.com/careers
+2024-06-05 20:52:05,923 INFO:Crawling Company => Carta
+2024-06-05 20:52:05,925 INFO:Base URL: https://carta.com
+2024-06-05 20:52:05,925 INFO:Visiting: https://carta.com/careers
+2024-06-05 20:52:31,678 INFO:Crawling Company => CCC Intelligent Solutions
+2024-06-05 20:52:31,679 INFO:Base URL: https://cccis.com
+2024-06-05 20:52:31,679 INFO:Visiting: https://cccis.com/careers
+2024-06-05 20:52:42,798 INFO:Crawling Company => Cedar
+2024-06-05 20:52:42,799 INFO:Base URL: https://cedar.com
+2024-06-05 20:52:42,799 INFO:Visiting: https://cedar.com/careers
+2024-06-05 20:52:44,251 INFO:Crawling Company => Celonis
+2024-06-05 20:52:44,251 INFO:Base URL: https://celonis.com
+2024-06-05 20:52:44,251 INFO:Visiting: https://celonis.com/careers
+2024-06-05 20:52:53,604 INFO:Visiting: https://celonis.com/careers/jobs/
+2024-06-05 20:52:55,482 INFO:Visiting: https://celonis.com/careers/jobs/locations/
+2024-06-05 20:52:57,577 INFO:At Level: 1 -> Url: https://celonis.com/careers/jobs/locations/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/celonis-labs/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/corporate/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/infosec/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/locations/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/marketing/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/product/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/sales/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/services-and-customer-success/
+2024-06-05 20:52:57,577 INFO:At Level: 2 -> Url: https://celonis.com/careers/jobs/value-engineering/
+2024-06-05 20:52:57,579 INFO:Crawling Company => Ceridian
+2024-06-05 20:52:57,579 INFO:Base URL: https://ceridian.com
+2024-06-05 20:52:57,579 INFO:Visiting: https://ceridian.com/careers
+2024-06-05 20:52:59,177 INFO:Crawling Company => Chainalysis
+2024-06-05 20:52:59,177 INFO:Base URL: https://chainalysis.com
+2024-06-05 20:52:59,177 INFO:Visiting: https://chainalysis.com/careers
+2024-06-05 20:53:04,511 INFO:Visiting: https://chainalysis.com/careers/job-openings/
+2024-06-05 20:53:04,740 INFO:Crawling Company => ChargePoint
+2024-06-05 20:53:04,740 INFO:Base URL: https://chargepoint.com
+2024-06-05 20:53:04,740 INFO:Visiting: https://chargepoint.com/careers
+2024-06-05 20:53:15,359 INFO:Crawling Company => Checkr
+2024-06-05 20:53:15,360 INFO:Base URL: https://checkr.com
+2024-06-05 20:53:15,360 INFO:Visiting: https://checkr.com/careers
+2024-06-05 20:53:17,689 INFO:Crawling Company => Chime
+2024-06-05 20:53:17,690 INFO:Base URL: https://chime.com
+2024-06-05 20:53:17,690 INFO:Visiting: https://chime.com/careers
+2024-06-05 20:53:17,818 INFO:Crawling Company => CircleCI
+2024-06-05 20:53:17,818 INFO:Base URL: https://circleci.com
+2024-06-05 20:53:17,818 INFO:Visiting: https://circleci.com/careers
+2024-06-05 20:53:19,347 INFO:Visiting: https://circleci.com/careers/jobs/
+2024-06-05 20:53:19,697 INFO:Visiting: https://circleci.com/careers/jobs/6243575002/?gh_jid=6243575002
+2024-06-05 20:53:20,041 INFO:At Level: 2 -> Url: https://circleci.com/careers/jobs/6243575002/?gh_jid=6243575002
+2024-06-05 20:53:20,043 INFO:Crawling Company => Cisco
+2024-06-05 20:53:20,043 INFO:Base URL: https://jobs.cisco.com
+2024-06-05 20:53:20,043 INFO:Visiting: https://jobs.cisco.com
+2024-06-05 20:53:24,724 INFO:Visiting: https://jobs.cisco.com/agency
+2024-06-05 20:53:26,926 INFO:Visiting: https://jobs.cisco.com/jobs
+2024-06-05 20:53:28,897 INFO:Visiting: https://jobs.cisco.com/jobs/Home
+2024-06-05 20:53:33,605 INFO:Visiting: https://jobs.cisco.com/jobs/JobsHelp
+2024-06-05 20:53:35,332 INFO:Visiting: https://jobs.cisco.com/jobs/Login
+2024-06-05 20:53:36,972 INFO:Visiting: https://jobs.cisco.com/jobs/OpenEvents
+2024-06-05 20:53:39,231 INFO:Visiting: https://jobs.cisco.com/jobs/RegistrationMethods
+2024-06-05 20:53:40,808 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="186"
+2024-06-05 20:53:44,054 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="187"
+2024-06-05 20:53:47,331 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="189"
+2024-06-05 20:53:50,609 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="190"
+2024-06-05 20:53:53,981 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="191"
+2024-06-05 20:53:57,228 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="194"
+2024-06-05 20:54:00,771 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="198"
+2024-06-05 20:54:04,131 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="199"
+2024-06-05 20:54:07,504 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="201"
+2024-06-05 20:54:10,744 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="41330107"
+2024-06-05 20:54:14,054 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="67822237"
+2024-06-05 20:54:17,438 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_12_3="70491888"
+2024-06-05 20:54:20,919 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/?3_18_3=["175"]
+2024-06-05 20:54:24,709 INFO:Visiting: https://jobs.cisco.com/jobs/SearchJobs/Customer%20Success?3_12_3="9013351"
+2024-06-05 20:54:27,886 INFO:Visiting: https://jobs.cisco.com/jobsfr
+2024-06-05 20:54:29,973 INFO:Visiting: https://jobs.cisco.com/jobs/EventDetailNL?projectId=1417536
+2024-06-05 20:54:32,065 INFO:Visiting: https://jobs.cisco.com/jobs/EventDetailNL?projectId=1423456
+2024-06-05 20:54:34,012 INFO:Visiting: https://jobs.cisco.com/jobs/ProjectDetail/AV-Lead/1421367
+2024-06-05 20:54:36,194 INFO:At Level: 2 -> Url: https://jobs.cisco.com/jobs/ProjectDetail/AV-Lead/1421367
+2024-06-05 20:54:36,197 INFO:Crawling Company => Cision
+2024-06-05 20:54:36,197 INFO:Base URL: https://cision.com
+2024-06-05 20:54:36,197 INFO:Visiting: https://cision.com/us/about/careers
+2024-06-05 20:54:53,346 INFO:Crawling Company => Cityblock Health
+2024-06-05 20:54:53,347 INFO:Base URL: https://cityblock.com
+2024-06-05 20:54:53,347 INFO:Visiting: https://cityblock.com/careers
+2024-06-05 20:54:55,012 INFO:Crawling Company => Clearbit
+2024-06-05 20:54:55,012 INFO:Base URL: https://clearbit.com
+2024-06-05 20:54:55,012 INFO:Visiting: https://clearbit.com/careers
+2024-06-05 20:54:56,439 INFO:Visiting: https://clearbit.com/jobs
+2024-06-05 20:54:57,116 INFO:Visiting: https://jobs.lever.co/clearbit
+2024-06-05 20:55:00,915 INFO:Visiting: https://www.lever.co/job-seeker-support/
+2024-06-05 20:55:01,483 INFO:Crawling Company => Clearcover
+2024-06-05 20:55:01,483 INFO:Base URL: https://clearcover.com
+2024-06-05 20:55:01,483 INFO:Visiting: https://clearcover.com/careers
+2024-06-05 20:55:05,332 INFO:Crawling Company => Clever
+2024-06-05 20:55:05,333 INFO:Base URL: https://clever.com
+2024-06-05 20:55:05,333 INFO:Visiting: https://clever.com/about/careers
+2024-06-05 20:55:11,045 INFO:Visiting: https://clever.com/job-listing
+2024-06-05 20:55:14,076 INFO:Crawling Company => ClickUp
+2024-06-05 20:55:14,077 INFO:Base URL: https://clickup.com
+2024-06-05 20:55:14,077 INFO:Visiting: https://clickup.com/careers
+2024-06-05 20:55:14,866 INFO:Crawling Company => Clockwise
+2024-06-05 20:55:14,866 INFO:Base URL: https://getclockwise.com
+2024-06-05 20:55:14,866 INFO:Visiting: https://getclockwise.com/careers
+2024-06-05 20:55:16,911 INFO:Crawling Company => CloudBees
+2024-06-05 20:55:16,911 INFO:Base URL: https://cloudbees.com
+2024-06-05 20:55:16,912 INFO:Visiting: https://cloudbees.com/careers
+2024-06-05 20:55:22,683 INFO:Visiting: https://cloudbees.com/careers/job
+2024-06-05 20:55:25,567 INFO:Crawling Company => Cloudera
+2024-06-05 20:55:25,567 INFO:Base URL: https://cloudera.com
+2024-06-05 20:55:25,567 INFO:Visiting: https://cloudera.com/careers
+2024-06-05 20:55:28,598 INFO:Crawling Company => Cloudflare
+2024-06-05 20:55:28,599 INFO:Base URL: https://cloudflare.com
+2024-06-05 20:55:28,599 INFO:Visiting: https://cloudflare.com/careers
+2024-06-05 20:55:31,297 INFO:Visiting: https://cloudflare.com/careers/jobs/
+2024-06-05 20:55:32,735 INFO:Crawling Company => Clumio
+2024-06-05 20:55:32,736 INFO:Base URL: https://clumio.com
+2024-06-05 20:55:32,736 INFO:Visiting: https://clumio.com/careers
+2024-06-05 20:55:33,682 INFO:Visiting: https://clumio.com/careers/job-openings
+2024-06-05 20:55:33,961 INFO:Crawling Company => Cockroach Labs
+2024-06-05 20:55:33,961 INFO:Base URL: https://cockroachlabs.com
+2024-06-05 20:55:33,961 INFO:Visiting: https://cockroachlabs.com/careers
+2024-06-05 20:55:40,617 INFO:Visiting: https://cockroachlabs.com/careers/open-positions/
+2024-06-05 20:55:42,333 INFO:Visiting: https://www.cockroachlabs.com/careers/open-positions/
+2024-06-05 20:55:42,471 INFO:Crawling Company => Coda
+2024-06-05 20:55:42,471 INFO:Base URL: https://coda.io
+2024-06-05 20:55:42,471 INFO:Visiting: https://coda.io/careers
+2024-06-05 20:55:43,821 INFO:Visiting: https://boards.greenhouse.io/coda/jobs/5687461002
+2024-06-05 20:55:45,499 INFO:At Level: 1 -> Url: https://boards.greenhouse.io/coda/jobs/5687461002
+2024-06-05 20:55:45,499 INFO:At Level: 1 -> Url: https://boards.greenhouse.io/coda/jobs/6661557002
+2024-06-05 20:55:45,500 INFO:Crawling Company => Coda
+2024-06-05 20:55:45,500 INFO:Base URL: https://coda.io
+2024-06-05 20:55:45,501 INFO:Visiting: https://coda.io/careers
+2024-06-05 20:55:46,948 INFO:Visiting: https://boards.greenhouse.io/coda/jobs/5687461002
+2024-06-05 20:55:48,562 INFO:At Level: 1 -> Url: https://boards.greenhouse.io/coda/jobs/5687461002
+2024-06-05 20:55:48,562 INFO:At Level: 1 -> Url: https://boards.greenhouse.io/coda/jobs/6661557002
+2024-06-05 20:55:48,564 INFO:Crawling Company => Code42
+2024-06-05 20:55:48,564 INFO:Base URL: https://code42.com
+2024-06-05 20:55:48,564 INFO:Visiting: https://code42.com/careers
+2024-06-05 20:56:59,989 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:56:59,993 INFO:Crawling Company => Codility
+2024-06-05 20:56:59,994 INFO:Base URL: https://codility.com
+2024-06-05 20:57:00,005 INFO:Visiting: https://codility.com/careers
+2024-06-05 20:57:02,804 INFO:Crawling Company => Cohesity
+2024-06-05 20:57:02,804 INFO:Base URL: https://cohesity.com
+2024-06-05 20:57:02,804 INFO:Visiting: https://cohesity.com/company/careers
+2024-06-05 20:57:23,601 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 20:57:23,606 INFO:Crawling Company => Collibra
+2024-06-05 20:57:23,607 INFO:Base URL: https://collibra.com
+2024-06-05 20:57:23,607 INFO:Visiting: https://collibra.com/careers
+2024-06-05 20:57:24,283 WARNING:Exception "HTTPSConnectionPool(host='collibra.com', port=443): Max retries exceeded with url: /careers (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))" occured
+2024-06-05 20:57:24,283 INFO:Crawling Company => Color
+2024-06-05 20:57:24,283 INFO:Base URL: https://color.com
+2024-06-05 20:57:24,284 INFO:Visiting: https://color.com/careers
+2024-06-05 20:57:30,637 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/17578b1b-6940-4a27-9395-e066b3f796a1
+2024-06-05 20:57:32,334 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/325dc7bd-70e8-4427-a319-fe62aa512bbb
+2024-06-05 20:57:33,712 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/44b5c2cd-e3ff-46f5-a489-47c6ab90fb43
+2024-06-05 20:57:35,248 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/4c73f7e6-9f00-4f3a-81ca-a47f62fd5d52
+2024-06-05 20:57:36,734 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/8d9c106b-4dc9-4af3-a64b-b0633c034781
+2024-06-05 20:57:38,297 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/92b9bd17-3bdb-4f57-bd26-32254dcca592
+2024-06-05 20:57:39,932 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/ad1132d8-7f15-4b52-bacc-699465c8b192
+2024-06-05 20:57:41,394 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/bf064d5a-c0ef-4d70-b656-5e41db1b44f7
+2024-06-05 20:57:42,926 INFO:Visiting: https://app.careerpuck.com/job-board/color/job/c8a0c1ea-78b1-48bb-80e9-7cb14e7154d3
+2024-06-05 20:57:44,468 INFO:Crawling Company => Confluent
+2024-06-05 20:57:44,469 INFO:Base URL: https://confluent.io
+2024-06-05 20:57:44,469 INFO:Visiting: https://confluent.io/careers
+2024-06-05 20:57:46,501 INFO:Crawling Company => Conjur
+2024-06-05 20:57:46,501 INFO:Base URL: https://cyberark.com
+2024-06-05 20:57:46,502 INFO:Visiting: https://cyberark.com/careers
+2024-06-05 20:57:50,589 INFO:Visiting: https://jobs.smartrecruiters.com/Cyberark1/743999990389133-channel-account-manager-dach-m-w-d-
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990389133-channel-account-manager-dach-m-w-d-
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990403502-sr-director-solutions-marketing
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990417316-event-content-programs-lead
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990417940-sr-software-engineer-python-backend-developer
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990418128-global-success-lead
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990419596-solutions-engineer-strategic-east
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990424403-legal-counsel-privacy
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990441673-customer-success-engineer
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990446964-sales-development-representative-benelux
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990447984-sales-development-representative-dach
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990475863-fp-a-director-gtm-business-support
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990490821-account-executive-india-bangalore-based-
+2024-06-05 20:57:50,955 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990627031-sales-development-representative-emea
+2024-06-05 20:57:50,956 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990667215-staff-software-engineer-for-saas-platform-group-be-er-sheva
+2024-06-05 20:57:50,956 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990917042-account-executive-morocco
+2024-06-05 20:57:50,956 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999990931665-sales-development-representative-spain
+2024-06-05 20:57:50,956 INFO:At Level: 1 -> Url: https://jobs.smartrecruiters.com/Cyberark1/743999992062534-talent-acquisition-partner-emea
+2024-06-05 20:57:50,957 INFO:Crawling Company => Contentful
+2024-06-05 20:57:50,957 INFO:Base URL: https://contentful.com
+2024-06-05 20:57:50,957 INFO:Visiting: https://contentful.com/careers
+2024-06-05 20:57:53,089 INFO:Visiting: https://contentful.com/careers/job/5094713/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5094713/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5094716/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5426316/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5772476/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5775326/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5841391/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5851487/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5851504/
+2024-06-05 20:57:53,932 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5852946/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5852999/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5853004/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5853009/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875138/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875144/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875149/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875150/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875374/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875381/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875386/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875395/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875396/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5875400/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5889983/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5891460/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5891475/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5891737/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5891746/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5891750/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5891755/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5894580/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5894608/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5894625/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5904529/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5906724/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5909329/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5909330/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5909663/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5913050/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5923696/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5923697/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5929628/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5930334/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5930337/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5930845/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5933021/
+2024-06-05 20:57:53,933 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5936835/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5944863/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5944864/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5949139/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5949155/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5954796/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5956276/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5963337/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5963475/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5966455/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5970066/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5970514/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5970762/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5970782/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5971295/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5971300/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5971303/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5971308/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5972185/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5972187/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5983233/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5983235/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5988897/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5988898/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/5990711/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6003038/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6004653/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6004917/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6004950/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6005862/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6013875/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6014070/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6014071/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6016951/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6017741/
+2024-06-05 20:57:53,934 INFO:At Level: 1 -> Url: https://contentful.com/careers/job/6017746/
+2024-06-05 20:57:53,937 INFO:Crawling Company => Convoy
+2024-06-05 20:57:53,937 INFO:Base URL: https://convoy.com
+2024-06-05 20:57:53,937 INFO:Visiting: https://convoy.com/careers
+2024-06-05 20:58:04,429 INFO:Crawling Company => Cornerstone OnDemand
+2024-06-05 20:58:04,430 INFO:Base URL: https://cornerstoneondemand.com
+2024-06-05 20:58:04,430 INFO:Visiting: https://cornerstoneondemand.com/careers
+2024-06-05 20:58:23,499 INFO:Crawling Company => Couchbase
+2024-06-05 20:58:23,500 INFO:Base URL: https://couchbase.com
+2024-06-05 20:58:23,501 INFO:Visiting: https://couchbase.com/careers
+2024-06-05 21:01:22,937 WARNING:Exception at company: Couchbase
+2024-06-05 21:01:22,949 INFO:Crawling Company => Coupa
+2024-06-05 21:01:22,949 INFO:Base URL: https://coupa.com
+2024-06-05 21:01:22,950 INFO:Visiting: https://coupa.com/company/careers
+2024-06-05 21:01:27,112 WARNING:Exception "local variable 'response' referenced before assignment" occured
+2024-06-05 21:01:27,113 INFO:Crawling Company => Coupa Software
+2024-06-05 21:01:27,113 INFO:Base URL: https://coupa.com
+2024-06-05 21:01:27,113 INFO:Visiting: https://coupa.com/company/careers
