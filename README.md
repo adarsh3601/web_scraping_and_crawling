@@ -3,7 +3,7 @@
 
 
 ## Getting Started 
-1) Clone the Repo and checkout to `Karthik-CE` branch
+1) Clone the Repo
 2) Make a conda env and install the packages mentioned in `requirments.txt` (check the CE directory for the file)
 3) Try running `run.py` and you should be able to generate csvs in `out` dir
 
